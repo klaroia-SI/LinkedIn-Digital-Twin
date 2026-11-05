@@ -1,0 +1,12 @@
+Alex Example
+Senior Software Engineer at Example Corp (2021 - Present)
+- Led development of an internal AI assistant used by 500+ employees
+- Built and maintained customer-facing React and Python services
+
+Software Engineer at Sample Inc (2017 - 2021)
+- Developed APIs and data pipelines for a B2B analytics product
+
+Skills: Python, TypeScript, React, LLM application development, API design
+Education: B.S. Computer Science, Example University
+
+(Replace by exporting your own LinkedIn profile as PDF and saving it as linkedin.pdf.)

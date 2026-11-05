@@ -1,0 +1,10 @@
+About Alex Example
+Alex is a software engineer with 8 years of experience building web products and, more recently, AI-powered tools. Alex enjoys turning ambiguous problems into simple, shipped solutions and works closely with customers and designers.
+
+Strengths: clear communication, pragmatic problem solving, and learning by building real projects.
+
+How Alex works: collaborative, curious, and focused on outcomes over process.
+
+What Alex is looking for: roles that involve building new products with a supportive, high-trust team.
+
+(Replace this file by copying it to summary.txt and writing about yourself.)
